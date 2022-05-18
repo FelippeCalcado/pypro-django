@@ -1,0 +1,2 @@
+# pypro-django
+Django exercises
